@@ -1,0 +1,9 @@
+{
+  "report": "Hemoglobin: 10.2 g/dL\nGlucose: 96 mg/dL",
+  "forced_draft": {
+    "hemoglobin": "10.2 g/dL",
+    "glucose": "96 mg/dL",
+    "creatinine": "0.9 mg/dL"
+  },
+  "expected": "FLAG"
+}

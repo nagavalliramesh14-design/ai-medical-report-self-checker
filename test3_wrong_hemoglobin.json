@@ -1,0 +1,7 @@
+{
+  "report": "Hemoglobin: 10.2 g/dL",
+  "forced_draft": {
+    "hemoglobin": "11.2 g/dL"
+  },
+  "expected": "CORRECTED"
+}

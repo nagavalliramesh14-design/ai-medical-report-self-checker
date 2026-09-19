@@ -1,0 +1,7 @@
+{
+  "report": "Hemoglobin: 10.2 g/dL\nGlucose: 96 mg/dL\nTotal Cholesterol: 185 mg/dL\nCreatinine: 0.9 mg/dL",
+  "forced_draft": {
+    "total_cholesterol": "285 mg/dL"
+  },
+  "expected": "CORRECTED"
+}
